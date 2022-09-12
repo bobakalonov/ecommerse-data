@@ -8,14 +8,14 @@
           "type": "x5",
           "color": "white",
           "price": 60,
-          "img": "./img/01-01.jpg",
+          "img": "/img/01-01.jpg",
           "quantity": 10
         },
         {
           "type": "x5-comfort",
           "color": "grey",
           "price": 660,
-          "img": "./img/01-02.jpg",
+          "img": "/img/01-02.jpg",
           "quantity": 0
         }
       ],
@@ -33,13 +33,13 @@
           "type": "f5",
           "color": "white",
           "price": 100,
-          "img": "./img/02-01.jpg"
+          "img": "/img/02-01.jpg"
         },
         {
           "type": "f5-comfort",
           "color": "grey",
           "price": 500,
-          "img": "./img/02-02.jpg"
+          "img": "/img/02-02.jpg"
         }
       ],
       "details": [
@@ -58,13 +58,13 @@
           "type": "f5",
           "color": "white",
           "price": 100,
-          "img": "./img/02-01.jpg"
+          "img": "/img/02-01.jpg"
         },
         {
           "type": "f5-comfort",
           "color": "grey",
           "price": 500,
-          "img": "./img/02-02.jpg"
+          "img": "/img/02-02.jpg"
         }
       ],
       "details": [
